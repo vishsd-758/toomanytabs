@@ -10,3 +10,4 @@ You can create simple icons using any image editor or online tools like:
 - https://realfavicongenerator.net/
 
 For now, you can use any PNG images with the correct dimensions.
+![icon](icon.png.ico)
